@@ -34,4 +34,3 @@ int main()
   output(str, rev_str);
   return 0;
 }
-
