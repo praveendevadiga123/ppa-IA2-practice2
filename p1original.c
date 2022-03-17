@@ -1,5 +1,7 @@
 
 #include<stdio.h>
+
+
 void input(float *base, float *height)
 {
   printf("enter a base and height of triangle\n");
